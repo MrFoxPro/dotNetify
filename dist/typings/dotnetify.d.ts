@@ -2,6 +2,7 @@
 // Project: https://github.com/dsuryd/dotnetify
 // Definitions by: Dicky Suryadi, brimce <https://github.com/Brimce>
 
+/// <reference path="./dotnetify-react.router.d.ts" />
 declare module "dotnetify" {
   export interface ITemplate {
     Target: string;
